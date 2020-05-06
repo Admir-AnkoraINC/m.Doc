@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +49,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "402D0EFD-B14F-44F5-82F4-0F97B76E9598"
+    },
+    {
+      "class": "rectangle",
+      "id": "93E795E4-BABB-43EA-8854-FFF5AA3262D1"
+    }
   ],
   "name": "Desktop",
   "nameIsFixed": false,
